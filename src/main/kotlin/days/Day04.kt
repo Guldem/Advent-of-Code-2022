@@ -2,7 +2,7 @@ package days
 
 import util.solve
 
-val testInput = listOf(
+private val testInput = listOf(
     "2-4,6-8",
     "2-3,4-5",
     "5-7,7-9",
